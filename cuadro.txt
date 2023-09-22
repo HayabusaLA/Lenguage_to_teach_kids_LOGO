@@ -1,0 +1,12 @@
+->Estos comandos dibujan un cuadrado<-
+down
+clr red
+go 100 #2
+rt 90
+clr blue
+go 100 #2
+rt 90
+clr orange
+go 100 #2
+rt 90
+go 100 #2

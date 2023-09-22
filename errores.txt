@@ -1,0 +1,6 @@
+down
+GO 100
+RT 90
+CLR ligthred
+BK -50
+RPT 3

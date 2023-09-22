@@ -1,0 +1,21 @@
+up
+go 20
+down
+clr red
+go 100 #2
+up
+go 20
+down
+clr blue
+go 50 #2
+up
+go 20
+down
+clr green
+go 80 #2
+up
+go 20
+down
+clr orange
+go 120 #2
+up

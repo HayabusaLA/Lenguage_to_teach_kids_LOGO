@@ -1,0 +1,13 @@
+->Este es un comentario<-
+down
+CLR blue
+GO 100
+CLR red
+LT 120
+GO 100
+CLR green
+LT 120
+GO 100
+CLR purple
+LT 120
+GO 100
